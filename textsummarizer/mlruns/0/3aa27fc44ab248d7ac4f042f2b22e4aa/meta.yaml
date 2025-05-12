@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91916/Downloads/textsummarizer/textsummarizer/mlruns/0/3aa27fc44ab248d7ac4f042f2b22e4aa/artifacts
+end_time: 1746970371671
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3aa27fc44ab248d7ac4f042f2b22e4aa
+run_name: artifacts/model_trainer
+run_uuid: 3aa27fc44ab248d7ac4f042f2b22e4aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746967421626
+status: 3
+tags: []
+user_id: '91916'
